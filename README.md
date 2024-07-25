@@ -14,6 +14,12 @@ You can view and use the calculator live on GitHub Pages: [Calculator Demo](http
 
 Replace `<username>` with your GitHub username.
 
+## Screenshots
+
+![Calculator Screenshot 1](images/CalculatorScreenshot1.png)
+![Calculator Screenshot 2](images/CalculatorScreenshot2.png)
+![Calculator Screenshot 3](images/CalculatorScreenshot3.png)
+
 ## Installation
 
 To run the calculator locally, follow these steps:
