@@ -10,7 +10,7 @@ A simple calculator application built using HTML, CSS, and JavaScript. This proj
 
 ## Demo
 
-You can view and use the calculator live on GitHub Pages: [Calculator Demo](https://<username>.github.io/codsoft/)
+You can view and use the calculator live on GitHub Pages: [Calculator Demo](https://Hitesh9298.github.io/codsoft/)
 
 Replace `<username>` with your GitHub username.
 
