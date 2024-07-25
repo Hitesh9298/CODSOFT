@@ -65,6 +65,11 @@ function calculate() {
             return;
     }
 
+    // Round the result to 3 decimal places if division operation
+    if (operator === '÷') {
+        result = Math.round(result * 1000) / 1000;
+    }
+
     currentInput = result.toString();
     operator = '';
     previousInput = '';
